@@ -18,7 +18,13 @@
 
   ***HTTP*** stands for HyperText Transfer Protocol.It is a protocol used to access the data on the World Wide Web (www). The HTTP protocol can be used to transfer the data in the form of plain text, hypertext, audio, video, and so on.
 
-
+# COMPARISONS
+  HTTP | HTTPS
+  ---- | -----
+  Unsecured | Secured
+  Sends data over port 80 | Sends data over port 443
+  No encryption of data | Data is encrypted
+  
    
                 
 
