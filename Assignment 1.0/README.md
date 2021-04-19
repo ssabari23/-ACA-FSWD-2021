@@ -1,7 +1,7 @@
 # CMD Commands
  ***cd***:          change directory</br>
- ***cd..***:        go back in a directory</br>
- ***d: or c:***:    to change the drive</br>      
+ ***cd..***:        go back in a directory</br>                  
+ ***d: or c:***:    to change the drive</br>             
  ***dir***:         to see contents in a directory</br>
  ***mkdir***:       to create new folder</br>
  ***ren***:         to rename files and folders</br>
@@ -24,7 +24,15 @@
   Unsecured | Secured
   Sends data over port 80 | Sends data over port 443
   No encryption of data | Data is encrypted
-  
+  http:// | https://
+
+
+  FRAMEWORK | LIBRARY
+  --------- | -------
+  When you use a framework, the framework is in charge of the flow.| When you use a library, you are in charge of the flow of the application.
+  A framework inverts the control of the program. It tells the developer what they need. | The programmer calls the library where and when they need it.  
+  eg:Vue.js | eg:jQuery 
+
    
                 
 
