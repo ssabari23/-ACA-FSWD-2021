@@ -1,7 +1,7 @@
 # CMD Commands
  ***cd***:          change directory</br>
- ***cd..***:        go back in a directory</br>                  
- ***d: or c:***:    to change the drive</br>             
+ ***cd..***:        go back in a directory</br>
+ ***d: or c:***:    to change the drive</br>
  ***dir***:         to see contents in a directory</br>
  ***mkdir***:       to create new folder</br>
  ***ren***:         to rename files and folders</br>
