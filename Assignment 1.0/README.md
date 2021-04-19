@@ -1,15 +1,15 @@
 #CMD Commands
-    ***cd***          change directory
-    ***cd..***        go back in a directory
-    ***d: or c:***    to change the drive      
-    ***dir***         to see contents in a directory
-    ***mkdir<folder name> / md<folder name>***   to create new folder
-    ***ren***         to rename files and folders
-    ***copy***        to copy files
-    ***xcopy***       to copy folders alongwith its contents
-    ***del***         to delete files
-    ***RD***         to delete a folder
-    ***help***       to get informations on commands
+    ***cd***          change directory</br>
+    ***cd..***        go back in a directory</br>
+    ***d: or c:***    to change the drive</br>      
+    ***dir***         to see contents in a directory</br>
+    ***mkdir<folder name> / md<folder name>***   to create new folder</br>
+    ***ren***         to rename files and folders</br>
+    ***copy***        to copy files</br>
+    ***xcopy***       to copy folders alongwith its contents</br>
+    ***del***         to delete files</br>
+    ***RD***         to delete a folder</br>
+    ***help***       to get informations on commands</br>
 
 #Descriptions
     *Client-side is the software that runs on a user's web browser. Client-side web development involves interactivity and displaying data.
