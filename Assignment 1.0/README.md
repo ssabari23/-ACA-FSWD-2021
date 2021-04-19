@@ -1,4 +1,4 @@
-#CMD Commands
+# CMD Commands
     ***cd***          change directory</br>
     ***cd..***        go back in a directory</br>
     ***d: or c:***    to change the drive</br>      
